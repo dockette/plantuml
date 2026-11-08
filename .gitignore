@@ -1,0 +1,10 @@
+# dotenv environment variable files
+.env
+.env.local
+
+# Finder (MacOS) folder config
+.DS_Store
+
+# Rendered test output
+*.png
+*.svg
